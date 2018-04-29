@@ -1,0 +1,15 @@
+#logo-container {
+    width: 60%;
+    float:left;
+}
+
+#logo {
+    display:block;
+    margin: 0 auto;
+    width:60%;
+}
+
+#buttons {
+    width:40%;
+    float:left;
+}
